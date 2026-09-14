@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left">
+  🦄 Linguagens: Python | JavaScript | HTML | CSS | PHP
+</p>
+
+<p align="left">
+  💼 Ferramentas: VS Code | DBeaver | Supabase
+</p>
