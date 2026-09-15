@@ -14,7 +14,7 @@
 
 </div>
 
-<p align="center">Howdy! My name is Annarkis. I am a web developer and software engineer who enjoys programming and dreams of creating my own project. Check out my repositories and projects. College projects, internship projects, and other personal ones.</p>
+<p align="center">Howdy! My name is Annarkis. I am a web developer and software engineer who enjoys programming and dreams of creating her own project. Check out my repositories and projects. College projects, internship projects, and other personal ones.</p>
 
 <div align="center">
 
